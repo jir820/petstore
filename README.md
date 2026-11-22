@@ -1,1 +1,1 @@
-# petstore
+# pet-store
